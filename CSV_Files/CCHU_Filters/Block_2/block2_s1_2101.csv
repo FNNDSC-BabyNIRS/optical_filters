@@ -1,0 +1,16 @@
+Subject_ID,probe,Block1 (S1),Filter Used for Block 1 (S1),Block2 (S1),Filter Used for Block 2 (S1),Block1 (S2),Filter Used for Block 1 (S2),Block2 (S2),Filter Used for Block 2 (S2),Block1 (S3),Filter Used for Block 1 (S3),Block2 (S3),Filter Used for Block 2 (S3)
+NE001,CCHUNB1,1084.0,0.1 good for A & B detectors,2101.0,0.4,,,,,,,,
+NE001,CCHUNB1,1084.0,,2101.0,0.8,1084,0.4,2102.0,0.7,,,,
+NE001,CCHUNB1,1084.0,0.5 good for A & B detectors,2101.0,0.8,1084,0.4,2103.0,0.4,,,,
+NE005,CCHUNB1,1084.0,"0.3 Good for A,B & C",2101.0,0.8,,,,,,,,
+NE006,CCHUNB1,1084.0,0.3,2101.0,0.3,,,,,,,,
+NE006,CCHUNB1,2102.0,0.5,2101.0,0.9,1084,0.4,2102.0,0.8,1084,0.5,2102.0,0.9
+NE009,CCHUNB1,1084.0,"0.2 Good for A, B & C",2101.0,0.8,,,,,,,,
+NE011,CCHUNB1,2103.0,"0.4 good for A, B & C detectors",2101.0,0.8,,,,,,,,
+NE040,CCHUNB1,2102.0,0.6,2101.0,1.0,1084,0.3,2102.0,0.8,,,,
+NE063,CCHUNB1,2102.0,0.3,2101.0,0.7,1084,0.8,2103.0,"0.6 Good for A & B, 0.8 Good for C & D",,,,
+NE069,CCHUNB1,1084.0,"0.2 Good for A and B, No Filter Good for C and D",2101.0,0.5,,,,,,,,
+NE071,CCHUNB1,1084.0,0.5,2101.0,0.9,1084,0.8,2103.0,0.8,,,,
+NE085,CCHUNB1,1084.0,0.3,2101.0,0.9,1084,,2101,,,,,
+NE143,CCHUNB2,1084.0,0.3,2101.0,1.0,1084,0.6,2101,0.7,,,,
+NE277,CCHUNB2,2102.0,"0.6 Good for A, B & C, 0.5 Good for D",2101.0,0.9,,,,,,,,
