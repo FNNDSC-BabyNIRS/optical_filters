@@ -1,0 +1,2 @@
+Subject_ID,probe,Block1 (S1),Filter Used for Block 1 (S1),Block2 (S1),Filter Used for Block 2 (S1),Block1 (S2),Filter Used for Block 1 (S2),Block2 (S2),Filter Used for Block 2 (S2),Block1 (S3),Filter Used for Block 1 (S3),Block2 (S3),Filter Used for Block 2 (S3)
+NE067,CCHUNB1,2101.0,"1.1 Good for A, B, and C; 1.0 Good for D",2102.0,"0.8 Good for A, B and C; 0.4 Good for D",2102.0,0.3,1084.0,"0.3 Good for A, B, and C; No Filter Good for D",,,,
