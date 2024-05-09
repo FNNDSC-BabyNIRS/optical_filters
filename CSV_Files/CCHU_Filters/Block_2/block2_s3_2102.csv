@@ -1,0 +1,5 @@
+Subject_ID,probe,Block1 (S1),Filter Used for Block 1 (S1),Block2 (S1),Filter Used for Block 2 (S1),Block1 (S2),Filter Used for Block 1 (S2),Block2 (S2),Filter Used for Block 2 (S2),Block1 (S3),Filter Used for Block 1 (S3),Block2 (S3),Filter Used for Block 2 (S3)
+NE006,CCHUNB1,2102.0,0.5,2101.0,0.9,1084.0,0.4,2102.0,0.8,1084.0,0.5,2102.0,0.9
+NE075,CCHUNB1,1084.0,0.5,2102.0,0.7,1084.0,0.9,2103.0,1.0,1084.0,0.3,2102.0,0.5
+NE077,CCHUNB1,1084.0,0.3,2102.0,0.7,1084.0,No filter,2102.0,0.2,1084.0,0.3,2102.0,0.5
+NE089,CCHUNB1,1084.0,0.5,2102.0,"0.9 Good for A, B & C; 0.7 Good for D",1084.0,0.3,2102.0,0.3,1084.0,0.2,2102.0,0.2
