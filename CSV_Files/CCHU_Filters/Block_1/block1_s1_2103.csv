@@ -1,4 +1,1 @@
 Subject_ID,probe,Block1 (S1),Filter Used for Block 1 (S1),Block2 (S1),Filter Used for Block 2 (S1),Block1 (S2),Filter Used for Block 1 (S2),Block2 (S2),Filter Used for Block 2 (S2),Block1 (S3),Filter Used for Block 1 (S3),Block2 (S3),Filter Used for Block 2 (S3)
-NE022,CCHUNB1,1084.0,,2101.0,See notes,1084.0,0.3,2101.0,0.6,,,,
-NE059,CCHUNB1,1084.0,0.2,2102.0,0.5,1084.0,0.5,2101.0,0.6,,,,
-NE143,CCHUNB2,1084.0,0.3,2101.0,1.0,1084.0,0.6,2101.0,0.7,,,,
